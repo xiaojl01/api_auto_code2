@@ -40,8 +40,8 @@ public class BaseCase {
         //2、设置接口响应结果如果是json返回的小数类型，使用BigDecimal来存储，默认是Float存储
         RestAssured.config = RestAssured.config().jsonConfig(jsonConfig().numberReturnType(BIG_DECIMAL));
         //3.设置项目的日志存储到本地文件中
-        PrintStream fileOutPutStream = new PrintStream(new File("log/test_all.log"));
-        RestAssured.filters(new RequestLoggingFilter(fileOutPutStream),new ResponseLoggingFilter(fileOutPutStream));
+//        PrintStream fileOutPutStream = new PrintStream(new File("log/test_all.log"));
+//        RestAssured.filters(new RequestLoggingFilter(fileOutPutStream),new ResponseLoggingFilter(fileOutPutStream));
     }
 
     /**
