@@ -1,0 +1,2319 @@
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "13978123787",
+    "pwd": "lemon123456",
+    "type": "0",
+    "reg_name": "管理员用户lemon"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:27 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190236,
+        "reg_name": "管理员用户lemon",
+        "mobile_phone": "13978123787"
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15783130037",
+    "pwd": "lemon666",
+    "type": "",
+    "reg_name": "tudou"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:28 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190237,
+        "reg_name": "tudou",
+        "mobile_phone": "15783130037"
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15106232320",
+    "pwd": "lemon12345678901",
+    "type": "1",
+    "reg_name": ""
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190238,
+        "reg_name": "",
+        "mobile_phone": "15106232320"
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "手机号为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "1581554176",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "158155417633",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "1581554176a",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "11015541763",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541764",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "账号已存在",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541766",
+    "pwd": "",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "密码为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541766",
+    "pwd": "lemon66",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "密码格式为8到16位",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541766",
+    "pwd": "lemon123456789012",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:29 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "密码格式为8到16位",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541766",
+    "pwd": "lemon123456",
+    "type": "3",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "不支持的用户类型",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/register
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541766",
+    "pwd": "lemon123456",
+    "type": "1",
+    "reg_name": "小柠檬mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "用户昵称长度超过10位",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "13978123787",
+    "pwd": "lemon123456"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190236,
+        "leave_amount": 0.0,
+        "mobile_phone": "13978123787",
+        "reg_name": "管理员用户lemon",
+        "reg_time": "2021-03-16 11:50:27.0",
+        "type": 0,
+        "token_info": {
+            "token_type": "Bearer",
+            "expires_in": "2021-03-16 11:55:30",
+            "token": "eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzYsImV4cCI6MTYxNTg2NjkzMH0.SUrNEpWwVyHpq8jcXL1qB-r6zZ18dC-s7z-dQ31szSHN41RyElhD_3qsP9xqtOJjCC3Y5rwJX3xl9ym_cidzLw"
+        }
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15783130037",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190237,
+        "leave_amount": 0.0,
+        "mobile_phone": "15783130037",
+        "reg_name": "tudou",
+        "reg_time": "2021-03-16 11:50:28.0",
+        "type": 1,
+        "token_info": {
+            "token_type": "Bearer",
+            "expires_in": "2021-03-16 11:55:30",
+            "token": "eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ"
+        }
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15106232320",
+    "pwd": "lemon12345678901"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190238,
+        "leave_amount": 0.0,
+        "mobile_phone": "15106232320",
+        "reg_name": "",
+        "reg_time": "2021-03-16 11:50:29.0",
+        "type": 1,
+        "token_info": {
+            "token_type": "Bearer",
+            "expires_in": "2021-03-16 11:55:30",
+            "token": "eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ"
+        }
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "手机号码为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "1581554176",
+    "pwd": "lemon666",
+    "type": "1",
+    "reg_name": "mengmeng"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "158155417643",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "1581554176a",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:30 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "11015541764",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "13323231200",
+    "pwd": "lemon666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541764",
+    "pwd": ""
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "密码为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "1515815541764",
+    "pwd": "lemon66"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "无效的手机格式",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541764",
+    "pwd": "lemon123456789012"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541764",
+    "pwd": "LEMON666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541763",
+    "pwd": "lemon1234567"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/login
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "mobile_phone": "15815541763",
+    "pwd": "lemon12345"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1001,
+    "msg": "账号信息错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	GET
+Request URI:	http://api.lemonban.com/futureloan/member/1000190236/info
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzYsImV4cCI6MTYxNTg2NjkzMH0.SUrNEpWwVyHpq8jcXL1qB-r6zZ18dC-s7z-dQ31szSHN41RyElhD_3qsP9xqtOJjCC3Y5rwJX3xl9ym_cidzLw
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190236,
+        "leave_amount": 0.0,
+        "mobile_phone": "13978123787",
+        "reg_name": "管理员用户lemon",
+        "reg_time": "2021-03-16 11:50:27.0",
+        "type": 0
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 0.01
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190237,
+        "leave_amount": 0.01,
+        "mobile_phone": "15783130037",
+        "reg_name": "tudou",
+        "reg_time": "2021-03-16 11:50:28.0",
+        "type": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 500000.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190237,
+        "leave_amount": 500000.01,
+        "mobile_phone": "15783130037",
+        "reg_name": "tudou",
+        "reg_time": "2021-03-16 11:50:28.0",
+        "type": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "amount": 10000.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "用户id为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 888,
+    "amount": 10000.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1007,
+    "msg": "无权限访问，请检查参数",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "余额必须为数值型",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 0.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 1000190237,
+        "leave_amount": 500000.01,
+        "mobile_phone": "15783130037",
+        "reg_name": "tudou",
+        "reg_time": "2021-03-16 11:50:28.0",
+        "type": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": -100.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "余额必须大于0并且小于或者等于500000",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 500000.01
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "余额必须大于0并且小于或者等于500000",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": "10000.666"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "余额小数超过两位",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzcsImV4cCI6MTYxNTg2NjkzMH0.6wuHpBzmuy6835RYnipJFQ2vjqVTZs9VuAESuJbnRiWX6_lkHuRaCj9GSMlnCgvuKRCCENWj8NueoCiBY_c2SQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": "￥10000"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "余额必须为数值型",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer XXXXXXXXX
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 10000.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1003,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved",
+    "msg": "无法解析的JSON值，请检查token或Authorization请求头"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/member/recharge
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190237,
+    "amount": 10000.00
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1003,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved",
+    "msg": "未授权或token已过期"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买测试课程_1",
+    "amount": 1000.00,
+    "loan_rate": 1.0,
+    "loan_term": 1,
+    "loan_date_type": 1,
+    "bidding_days": 1
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 2020162,
+        "member_id": 1000190238,
+        "title": "购买测试课程_1",
+        "amount": 1000.0,
+        "loan_rate": 1.0,
+        "loan_term": 1,
+        "loan_date_type": 1,
+        "bidding_days": 5,
+        "create_time": "2021-03-16 11:50:32.0",
+        "bidding_start_time": null,
+        "full_time": null,
+        "status": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买测试课程_2",
+    "amount": 1100.00,
+    "loan_rate": 24.0,
+    "loan_term": 36,
+    "loan_date_type": 1,
+    "bidding_days": 10
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 2020163,
+        "member_id": 1000190238,
+        "title": "购买测试课程_2",
+        "amount": 1100.0,
+        "loan_rate": 24.0,
+        "loan_term": 36,
+        "loan_date_type": 1,
+        "bidding_days": 5,
+        "create_time": "2021-03-16 11:50:32.0",
+        "bidding_start_time": null,
+        "full_time": null,
+        "status": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买测试课程_3",
+    "amount": 500000.00,
+    "loan_rate": 2.0,
+    "loan_term": 10,
+    "loan_date_type": 2,
+    "bidding_days": 2
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 2020164,
+        "member_id": 1000190238,
+        "title": "购买测试课程_3",
+        "amount": 500000.0,
+        "loan_rate": 2.0,
+        "loan_term": 10,
+        "loan_date_type": 2,
+        "bidding_days": 5,
+        "create_time": "2021-03-16 11:50:32.0",
+        "bidding_start_time": null,
+        "full_time": null,
+        "status": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买测试课程_4",
+    "amount": 100000.00,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 5
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 0,
+    "msg": "OK",
+    "data": {
+        "id": 2020165,
+        "member_id": 1000190238,
+        "title": "购买测试课程_4",
+        "amount": 100000.0,
+        "loan_rate": 23.0,
+        "loan_term": 45,
+        "loan_date_type": 2,
+        "bidding_days": 5,
+        "create_time": "2021-03-16 11:50:32.0",
+        "bidding_start_time": null,
+        "full_time": null,
+        "status": 1
+    },
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "title": "购买测试课程_5",
+    "amount": 500000.00,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "用户id为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 8111101,
+    "title": "购买测试课程_6",
+    "amount": 500000.00,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "会员不存在",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "",
+    "amount": 500000.00,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:32 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "标题为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "借款金额为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": -1000,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款金额范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 0.00,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款金额范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.6,
+    "loan_rate": 23.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款金额范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1001.00,
+    "loan_rate": 23,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款金额范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "利率为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 0.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款利率范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 25.0,
+    "loan_term": 45,
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款利率范围错误",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "",
+    "loan_date_type": 1,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "借款期限为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "0",
+    "loan_date_type": 1,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款期限单位为月的项目,期限范围为1到36个月(包含1个月和36个月)",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "37",
+    "loan_date_type": 1,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款期限单位为月的项目,期限范围为1到36个月(包含1个月和36个月)",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "9",
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款期限单位为天的项目,期限范围为10到45天(包含10天和45天)",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "46",
+    "loan_date_type": 2,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款期限单位为天的项目,期限范围为10到45天(包含10天和45天)",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": 3,
+    "loan_date_type": "",
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "借款日期类型为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": 3,
+    "loan_date_type": 3,
+    "bidding_days": 9
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "借款类型不存在",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": 3,
+    "loan_date_type": 1,
+    "bidding_days": ""
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 1,
+    "msg": "竞标期限为空",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "3",
+    "loan_date_type": "1",
+    "bidding_days": "11"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "竞标期限为1-10天",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
+Request method:	POST
+Request URI:	http://api.lemonban.com/futureloan/loan/add
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		X-Lemonban-Media-Type=lemonban.v2
+				Authorization=Bearer eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjEwMDAxOTAyMzgsImV4cCI6MTYxNTg2NjkzMH0.pEjukBKVshVgRmjETVoHoNnOk-vahx5QSVyxkueI3oedoM1CQaxyoc7dWDfDRu77czC_Ud55_4J33v4eNz65LQ
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "member_id": 1000190238,
+    "title": "购买全栈测试课程_5",
+    "amount": 1000.00,
+    "loan_rate": 23.0,
+    "loan_term": "3",
+    "loan_date_type": "1",
+    "bidding_days": "0"
+}
+HTTP/1.1 200 
+Server: nginx/1.4.2
+Date: Tue, 16 Mar 2021 03:50:33 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+{
+    "code": 2,
+    "msg": "竞标期限为1-10天",
+    "data": null,
+    "copyright": "Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved"
+}
